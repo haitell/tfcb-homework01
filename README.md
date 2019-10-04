@@ -1,6 +1,6 @@
 # Homework #1
 
-This document describes the files associated with TFCB Homework 1, all of which are contained in this repository. The primary data file is titled [Survey_Data.xlsx](https://github.com/haitell/tfcb-homework01/blob/master/data/Survey_Data.xlsx) and is located in the data directory. 
+This document describes the files associated with TFCB Homework 1, all of which are contained in this repository. The "tidy" version of the file containing the survery data can be found [here](https://github.com/haitell/tfcb-homework01/blob/master/data/Survey-Data_tidy.tsv) and is located in the [data directory](https://github.com/haitell/tfcb-homework01/tree/master/data). 
 
 ## Source Code Files
   * [get_dataset.py](https://github.com/haitell/tfcb-homework01/blob/master/source_code/get_dataset.py)
